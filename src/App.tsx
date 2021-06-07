@@ -10,7 +10,8 @@ export const App = () => {
 
   return (
     <div className="container">
-      <div className="pole" /> d
+      <h2>Xstate Traffic Light</h2>
+      <div className="pole" />
       <div className="traffic-light">
         <input
           type="radio"
